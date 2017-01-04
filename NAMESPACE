@@ -1,0 +1,7 @@
+
+# functions
+export(dSVA)
+importFrom("sva", "num.sv")
+importFrom("stats", "model.matrix", "pf")
+     
+
